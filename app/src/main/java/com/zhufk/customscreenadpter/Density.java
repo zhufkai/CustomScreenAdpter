@@ -8,6 +8,10 @@ import android.util.DisplayMetrics;
 
 import androidx.annotation.NonNull;
 
+/**
+ * @Author zhufk
+ * @Description 根据修改density屏幕适配方案
+ */
 public class Density {
 
     private static final float WIDTH = 360;//参考设备的宽，单位是dp

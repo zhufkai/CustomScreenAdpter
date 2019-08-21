@@ -7,7 +7,7 @@ import android.widget.RelativeLayout;
 
 /**
  * @ClassName ScreenAdapterLayout
- * @Description TODO
+ * @Description 自定义View适配
  * @Author zhufk
  * @Date 2019/8/21 11:03
  * @Version 1.0

@@ -9,7 +9,7 @@ import android.widget.RelativeLayout;
 
 /**
  * @ClassName PercentLayout
- * @Description TODO
+ * @Description 自定义百分比布局
  * @Author zhufk
  * @Date 2019/8/21 11:22
  * @Version 1.0

@@ -4,7 +4,10 @@ import android.content.Context;
 import android.util.DisplayMetrics;
 import android.view.WindowManager;
 
-
+/**
+ * @Author zhufk
+ * @Description 自定义view屏幕参数工具类
+ */
 public class ScreenUtils {
     private static ScreenUtils utils;
 
